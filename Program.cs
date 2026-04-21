@@ -46,4 +46,21 @@
 
 
 // loop What is loop 
+// Console.WriteLine(1);
+// Console.WriteLine(2);
+// Console.WriteLine(3);
+// Console.WriteLine(4);
+// Console.WriteLine(5);
+// Console.WriteLine(6);
 
+
+/*
+ for(data_type variable_name = value; condition; incre/decre){
+ }
+*/
+
+
+for(int i = 1; i <= 100; i++)
+{
+  Console.WriteLine(i);
+}

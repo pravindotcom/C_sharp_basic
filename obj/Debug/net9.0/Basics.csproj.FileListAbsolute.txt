@@ -12,3 +12,4 @@
 /home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/Basics.pdb
 /home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/Basics.genruntimeconfig.cache
 /home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/ref/Basics.dll
+/home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/Basics.sourcelink.json
