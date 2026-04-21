@@ -1,0 +1,14 @@
+/home/pravin/Willovate/dotnet/Basics/bin/Debug/net9.0/Basics
+/home/pravin/Willovate/dotnet/Basics/bin/Debug/net9.0/Basics.deps.json
+/home/pravin/Willovate/dotnet/Basics/bin/Debug/net9.0/Basics.runtimeconfig.json
+/home/pravin/Willovate/dotnet/Basics/bin/Debug/net9.0/Basics.dll
+/home/pravin/Willovate/dotnet/Basics/bin/Debug/net9.0/Basics.pdb
+/home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/Basics.AssemblyInfoInputs.cache
+/home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/Basics.AssemblyInfo.cs
+/home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/Basics.csproj.CoreCompileInputs.cache
+/home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/Basics.dll
+/home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/refint/Basics.dll
+/home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/Basics.pdb
+/home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/Basics.genruntimeconfig.cache
+/home/pravin/Willovate/dotnet/Basics/obj/Debug/net9.0/ref/Basics.dll
